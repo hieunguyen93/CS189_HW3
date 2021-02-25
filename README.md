@@ -10,6 +10,6 @@ For the data, please make sure all the data in in a folder '/data' within the ba
 
 Random Seed Number:
 
-- For problem, the random seed is
+- For problem 4, the random seed is 26
 
-- For problem, the random seed is
+- For problem 8, the random seed is 26
